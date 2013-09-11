@@ -1,0 +1,43 @@
+
+资源的下载：
+qt-everywhere-opensource-src-5.0.2
+http://yunpan.cn/QGQ7vpS6wv9w5
+----------------------------------------------
+
+Qt4_C.plus.plus.GUI.Programming.with.Qt.4.2nd.Edition.Feb.2008.chm
+http://yunpan.cn/QGQ7GXZUNRGi8
+
+------------------------------------------------------
+项目名称：source code analyzer for linux
+
+*项目文档及代码：https://github.com/hitzhangjie/SC-Analyzer
+
+项目描述：
+linux下因为长期没有一款代码阅读分析工具而被人诟病，有没有觉得Eclips太慢而且占内存？
+Code::block不够稳定？
+vim配置过于麻烦？
+基于以上原因才产生了，我们想要建立此项目的原因
+我们的项目将会填补一项空白
+本工程初衷是仿照source insight
+期望建立一个跨平台的代码阅读和分析工具
+在阅读linux kernel这样大型的工程，linux下一向没有便利的代码工具，严重阻碍了linux下程序开发
+大部分人都期待一个快速、便捷的代码分析工具，却没有人付诸于行动
+来吧加入我们，期待你为自由软件的世界添砖加瓦，也许你的加入将改变世界！
+
+开发条件：
+PC机一台，装有linux操作系统
+具备网路环境，能够下载项目源代码，及提交修改
+
+主要技术：
+linux C / C++ / Qt / shell / Makefile / Sqlite
+
+
+开发环境的搭建：
+1.操作系统的安装Debian / Ubuntu
+可以以下几种方式安装
+Wubi / visualbox （虚拟机的安装）/ 双系统
+单独启动linux可以cpu和内存资源，
+2.Qt5SDK编译
+3.代码版本控制客户端（SVN / GIT）
+安装g++
+
